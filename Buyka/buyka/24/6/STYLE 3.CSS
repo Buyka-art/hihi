@@ -1,0 +1,35 @@
+h2 {
+  background-color: blanchedalmond;
+  text-align: center;
+  margin: 0;
+}
+div {
+  text-decoration: none;
+  color: black;
+  background-color: blanchedalmond;
+  margin: 0;
+  text-align: center;
+}
+.link {
+  text-align: center;
+}
+div a{
+  text-decoration: none;
+  color: black;
+}
+.hi {
+  background-color: rgb(73, 77, 81);
+  padding: 1vw;
+  text-align: center;
+}
+.h89{
+  background-color: blanchedalmond;
+  text-align: center;
+}
+header{
+  position: fixed;
+  width: 100vw;
+}
+.imgg{
+  margin-top: 35px;
+}
