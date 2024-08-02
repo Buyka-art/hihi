@@ -1,14 +1,14 @@
 h2 {
-  background-color: blanchedalmond;
+  background-color: rgb(255, 255, 255);
   text-align: center;
   margin: 0;
 }
 div {
   text-decoration: none;
-  color: black;
-  background-color: blanchedalmond;
+  color: rgb(0, 0, 0);
+
   margin: 0;
-  text-align: center;
+  /* text-align: center; */
 }
 .link {
   text-align: center;
@@ -32,4 +32,136 @@ header{
 }
 .imgg{
   margin-top: 35px;
+  width: 100vw;
 }
+.hereg4{
+width: 100vw;
+}
+.df{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 7px;
+  font-size: 18px;
+  padding: 3px;
+  margin-bottom: 10px;
+ 
+}
+.open{
+  background-color: rgb(204, 255, 0);
+}
+.textHuree{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
+.j9{
+  display: flex;
+  justify-content:start;
+  align-items: start;
+}
+.aTag{
+  display: flex;
+  gap: 20px;
+}
+.headerText{
+  font-size: 20px;
+}
+.center{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
+.j3{
+  display: flex;
+  justify-content:end;
+  align-items: start;
+}
+h1{
+  margin: 0;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  background-color: rgb(255, 255, 255);
+  margin: 0vw;
+}
+header{
+top: 0;
+}
+.bosoo{
+  display: flex;
+  flex-direction: column;
+}
+.g1{
+  display: flex;
+}
+.g2{
+  display: flex;
+}
+.fdfd{
+  display: flex;
+  width: 100vw;
+}
+.fffh{
+  display: flex;
+  justify-content: space-around;
+}
+.dfHuree{
+ width: 100vw;
+}
+.hs2{
+  display: flex;
+  justify-content: space-between;
+  object-fit: cover;
+  width: 100vw;
+}
+.s1{
+object-fit: cover;
+}
+
+.card-img{
+  width: 50vw;
+}
+.nmnm{
+  width: 100vw;
+}
+.ggh{
+display: flex;
+margin-right: 34px;
+gap: 5px;
+margin-block: 0px;
+}
+.relative{
+  position: relative;
+}
+.absolute{
+  position: absolute;
+  top: 175px;
+  left: 110px;
+}
+@media screen and (max-width: 480px) {
+.hereg4{
+  width: 100vw;
+  object-fit: cover;
+
+}
+.card-img{
+  width: 100vw;
+}
+.imgg{
+  width: 100vw;
+  height: auto;
+}
+}
+
+
+
+
+
+
+
+
+
